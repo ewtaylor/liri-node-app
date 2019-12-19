@@ -7,24 +7,25 @@ What is it?
 LIRI will be a command line node app that takes in parameters and gives you back data. 
 
 It can:
-Search concerts
-Get song information
-Pull information on a movie
+1) Search concerts
+2) Get song information
+3) Pull information on a movie
 
 
-Requirements
-Node.js
-Run 'npm install' 
-Working clone of the master branch of this repository
-Valid Developer API keys
-Usage
+Requirements:
+1) Node.js
+2) Run 'npm install' 
+3) Working clone of the master branch of this repository
+4) Valid Developer API keys
+5) Usage
 
-The available commands are below
-node liri.js concert-this <artist/band name here>
-node liri.js spotify-this-song
-node liri.js movie-this
-node liri.js do-what-it-says
-API's Used
-Spotify Web API: https://developer.spotify.com/documentation/web-api/
-BandsInTown API: https://manager.bandsintown.com/support/bandsintown-api
-OMDB API:http://www.omdbapi.com/
+The available commands are below:
+1) node liri.js concert-this <artist/band name here>
+2) node liri.js spotify-this-song
+3) node liri.js movie-this
+4) node liri.js do-what-it-says
+
+API's Used:
+1) Spotify Web API: https://developer.spotify.com/documentation/web-api/
+2) BandsInTown API: https://manager.bandsintown.com/support/bandsintown-api
+3) OMDB API:http://www.omdbapi.com/
