@@ -21,8 +21,8 @@ Requirements:
 
 The available commands are below:
 1) node liri.js concert-this <artist/band name here>
-2) node liri.js spotify-this-song
-3) node liri.js movie-this
+2) node liri.js spotify-this-song <artist/band name here>
+3) node liri.js movie-this <movie title here>
 4) node liri.js do-what-it-says
 
 API's Used:
