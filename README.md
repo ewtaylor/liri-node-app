@@ -5,6 +5,7 @@ LIRI is a _Language_ Interpretation and Recognition Interface.
 
 What is it?
 LIRI will be a command line node app that takes in parameters and gives you back data. 
+https://ewtaylor.github.io/liri-node-app/
 
 It can:
 1) Search concerts
@@ -30,17 +31,3 @@ API's Used:
 2) BandsInTown API: https://manager.bandsintown.com/support/bandsintown-api
 3) OMDB API:http://www.omdbapi.com/
 
-ewtay@LAPTOP-RB063SQJ MINGW64 ~/Desktop/liri-node-app (master)
-$ node liri.js concert-this tennis
-DEBUG: keys loaded
-DEBUG: ***** WELCOME TO LIRI *****
-DEBUG: you have entered: concert-this and tennis
-DEBUG: You have this many inputs: 2
-*****************************************
-
-CONCERT INFORMATION FOR tennis
-NEXT EVENT: Madrid Theatre
-EVENT LOCATION: Kansas City
-EVENT DATE: 2020-02-25T19:00:00
-
-*****************************************
