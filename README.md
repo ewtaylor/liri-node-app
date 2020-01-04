@@ -5,7 +5,6 @@ LIRI is a _Language_ Interpretation and Recognition Interface.
 
 What is it?
 LIRI will be a command line node app that takes in parameters and gives you back data. 
-https://ewtaylor.github.io/liri-node-app/
 
 It can:
 1) Search concerts
