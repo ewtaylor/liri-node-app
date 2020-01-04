@@ -29,3 +29,19 @@ API's Used:
 1) Spotify Web API: https://developer.spotify.com/documentation/web-api/
 2) BandsInTown API: https://manager.bandsintown.com/support/bandsintown-api
 3) OMDB API:http://www.omdbapi.com/
+
+Screenshot:
+ewtay@LAPTOP-RB063SQJ MINGW64 ~/Desktop/liri-node-app (master)
+$ node liri.js concert-this tennis
+DEBUG: keys loaded
+DEBUG: ***** WELCOME TO LIRI *****
+DEBUG: you have entered: concert-this and tennis
+DEBUG: You have this many inputs: 2
+*****************************************
+
+CONCERT INFORMATION FOR tennis
+NEXT EVENT: Madrid Theatre
+EVENT LOCATION: Kansas City
+EVENT DATE: 2020-02-25T19:00:00
+
+*****************************************
