@@ -125,9 +125,9 @@ function movieSearch(movie) {
             console.log("MOVIE TITLE: " + response.data.Title);
             console.log("MOVIE YEAR: " + response.data.Year);
             console.log("IMDB RATING: " + response.data.Ratings[0].Value);
-            if (response.data.Ratings[1].Value != "undefined"){
-                console.log("ROTTEN TOMATOES RATING: " + response.data.Ratings[1].Value);
-            }
+            // if (response.data.Ratings[1].Value != "undefined"){
+            console.log("ROTTEN TOMATOES RATING: " + response.data.Ratings[1].Value);
+        // }
 
             console.log("ROTTEN TOMATOES RATING: " + response.data.Ratings[1].Value);
             console.log("PRODUCTION COUNTRY: " + response.data.Country);
