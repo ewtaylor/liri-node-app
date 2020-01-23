@@ -30,4 +30,4 @@ API's Used:
 2) BandsInTown API: https://manager.bandsintown.com/support/bandsintown-api
 3) OMDB API:http://www.omdbapi.com/
 
-*Screenshots of working app in images folder
+*Screenshots of working app in images folder and Issues (in Github)
